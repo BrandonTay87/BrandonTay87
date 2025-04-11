@@ -25,7 +25,7 @@ The project aims to create a simulation of an autonomous vehicle built using the
 
 ## Demo/Screenshot
 - Weather Effect
-Link to Demo: https://media.oregonstate.edu/media/t/1_dnxjnibd
+- Link to Demo: https://media.oregonstate.edu/media/t/1_dnxjnibd
 
 - First-person camera
 ![image](https://github.com/user-attachments/assets/c0b211df-e264-4214-add0-2e0599e159f9)
@@ -34,7 +34,7 @@ Link to Demo: https://media.oregonstate.edu/media/t/1_dnxjnibd
 *Figure 2: Example of the first-person camera view*
 
 - Real-time line drawing tool
-Link to Demo: https://media.oregonstate.edu/media/t/1_vp0p2v4a
+- Link to Demo: https://media.oregonstate.edu/media/t/1_vp0p2v4a
 
 - Basic Decision System
-Link to Demo: https://media.oregonstate.edu/media/t/1_cdld5uch
+- Link to Demo: https://media.oregonstate.edu/media/t/1_cdld5uch
